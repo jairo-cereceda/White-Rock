@@ -34,5 +34,7 @@ The application is built using a classic robust architecture:
 
 ---
 
-## ✒️ Author
+## ✒️ Authors
 Jairo Cereceda - [GitHub Profile](https://github.com/jairo-cereceda)
+Luis Carlos Romero
+José Zarzuela García 
